@@ -1,5 +1,7 @@
 class Test{
 	public static void main(String[] args) {
-		System.out.println("im rohan");
+		int a=10;
+		int b=20;
+		System.out.println("sum is="+a+b);
 	}
 }
